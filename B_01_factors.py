@@ -97,7 +97,7 @@ while True:
 
     # Get factors for integers that are 2 or more
     elif to_factor != 1:
-        factor_list = 'get_factors(to_factor)'
+        factor_list = (to_factor)
 
     # set up comment for unity
     else:
